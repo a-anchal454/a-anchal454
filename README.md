@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: no fun
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anchal-6b413a2a7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anchal-6b413a2a7/" height="30" width="40" /></a>
+<!-- <p align="left"> -->
+<!-- <a href="https://www.linkedin.com/in/anchal-6b413a2a7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anchal-6b413a2a7/" height="30" width="40" /></a> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
