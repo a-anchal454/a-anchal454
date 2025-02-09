@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://profound-bunny-84edd7.netlify.app/](https://profound-bunny-84edd7.netlify.app/)
 
 - 💬 Ask me about **MERN,Postgres,SQL,Nestjs**
-- ⚡ Fun fact: no fun
+- ⚡ Fun fact: I will be new ceo of google
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left"> -->
