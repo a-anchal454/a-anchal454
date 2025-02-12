@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Anchal</h1>
-<!-- <h3 align="center">A passionate backend developer from India</h3> -->
+<h6 align="center">Passionate back-end developer and learning AI based application development </h6> 
 
 - 🌱 I’m currently learning **Django, GraphQL**
 
