@@ -18,11 +18,16 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Anchal</h1>
 <h6 align="center">Passionate back-end developer and learning Devops </h6> 
 
+- 🔭 I’m currently working on **JobHive**
+
 - 🌱 I’m currently learning **Django, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://profound-bunny-84edd7.netlify.app/](https://profound-bunny-84edd7.netlify.app/)
 
 - 💬 Ask me about **MERN,Postgres,SQL,Nestjs**
+  
+- 📫 How to reach me: **anchalnihal89@gmail.com**
+    
 <!-- - ⚡ Fun fact: I will be new ceo of google -->
 
 <h3 align="left">Connect with me:</h3>
