@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anchal</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-anchal454&label=Profile%20views&color=0e75b6&style=flat" alt="a-anchal454" /> </p>
 
@@ -11,14 +11,13 @@
 
 - 💬 Ask me about **MERN,Postgres,SQL,Nestjs**
 
-- 📫 How to reach me **qanchal5657@gmail.com**
+- 📫 How to reach me **anchal.al667@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anchal-6b413a2a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anchal-6b413a2a7/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/epic_valley_94" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/epic_valley_94" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/https://www.codechef.com/users/epic_valley_94" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/epic_valley_94" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/learn11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/learn11/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/anshu16_/?ref=header_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anshu16_/?ref=header_profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/anshu16_/?ref=header_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anshu16_/?ref=header_profile" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
