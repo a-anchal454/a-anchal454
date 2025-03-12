@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://profound-bunny-84edd7.netlify.app/](https://profound-bunny-84edd7.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://67c9ae8267ee2827bc8951bc--teal-cendol-0565ed.netlify.app/](https://67c9ae8267ee2827bc8951bc--teal-cendol-0565ed.netlify.app/)
 
 - 💬 Ask me about **MERN,Postgres,SQL,Nestjs**
 
